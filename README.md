@@ -263,8 +263,8 @@ $
 
 ## Authors & Copyrights
 
-* Luis chaparro <[luischaparroc](https://github.com/luischaparroc)>
-* Edward Ortiz <[edward0rtiz](https://github.com/edward0rtiz)>
+* Abdalla Ali <[Abdalla Ali](https://github.com/Abdalla-Aly)>
+* Raji Oluwatosin <[Raji Oluwatosin](https://github.com/BestStar42)>
 
 ## More information
 
